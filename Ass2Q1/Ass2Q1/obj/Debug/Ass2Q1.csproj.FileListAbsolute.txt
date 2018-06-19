@@ -1,0 +1,6 @@
+c:\users\mansi\documents\visual studio 2015\Projects\Ass2Q1\Ass2Q1\bin\Debug\Ass2Q1.exe.config
+c:\users\mansi\documents\visual studio 2015\Projects\Ass2Q1\Ass2Q1\bin\Debug\Ass2Q1.exe
+c:\users\mansi\documents\visual studio 2015\Projects\Ass2Q1\Ass2Q1\bin\Debug\Ass2Q1.pdb
+c:\users\mansi\documents\visual studio 2015\Projects\Ass2Q1\Ass2Q1\obj\Debug\Ass2Q1.csprojResolveAssemblyReference.cache
+c:\users\mansi\documents\visual studio 2015\Projects\Ass2Q1\Ass2Q1\obj\Debug\Ass2Q1.exe
+c:\users\mansi\documents\visual studio 2015\Projects\Ass2Q1\Ass2Q1\obj\Debug\Ass2Q1.pdb

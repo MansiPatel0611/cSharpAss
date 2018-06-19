@@ -1,0 +1,5 @@
+c:\users\mansi\documents\visual studio 2015\Projects\Ass2Q2\Ass2Q2\bin\Debug\Ass2Q2.exe.config
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Ass2Q2\Ass2Q2\bin\Debug\Ass2Q2.exe
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Ass2Q2\Ass2Q2\bin\Debug\Ass2Q2.pdb
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Ass2Q2\Ass2Q2\obj\Debug\Ass2Q2.exe
+C:\Users\mansi\Documents\Visual Studio 2015\Projects\Ass2Q2\Ass2Q2\obj\Debug\Ass2Q2.pdb
